@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3> <b>Flowchart Code:</b> 1-2023-BSIT-MWA</h3>
+    <h3> <b>Flowchart Name:</b> CURRICULUM FOR BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY <br>
+           WITH SPECIALIZATION IN MOBILE AND WEB APPLICATIONS</h3>
+    <table style="background-color: white; border: 2px; color: white;">
+        <tr style="background-color: rgb(57, 157, 190); text-align: center;">
+            <th width="50">#</th>
+            <th width="105">Term 1</th>
+            <th width="105">Term 2</th>
+            <th width="105">Term 3</th>
+            <th width="105">Term 4</th>
+            <th width="105">Term 5</th>
+            <th width="105">Term 6</th>
+            <th width="105">Term 7</th>
+            <th width="105">Term 8</th>
+            <th width="105">Term 9</th>
+            <th width="105">Term 10</th>
+            <th width="105">Term 11</th>
+            <th width="105">Term 12</th>
+        </tr>
+
+        <tr style="color: black; text-align: center; ">
+            <th width="50" style="background-color: rgb(231, 229, 229);">1</th>
+            <th width="105" height="50" style="background-color: rgb(238, 172, 238);">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: chartreuse;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+        </tr>
+
+        <tr style="color: black; text-align: center; ">
+            <th width="50" style="background-color: rgb(231, 229, 229);">2</th>
+            <th width="105" height="50" style="background-color: rgb(238, 172, 238);">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: chartreuse;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+        </tr>
+
+        <tr style="color: black; text-align: center; ">
+            <th width="50" style="background-color: rgb(231, 229, 229);">3</th>
+            <th width="105" height="50" style="background-color: rgb(238, 172, 238);">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: chartreuse;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+        </tr>
+
+        <tr style="color: black; text-align: center; ">
+            <th width="50" style="background-color: rgb(231, 229, 229);">4</th>
+            <th width="105" height="50" style="background-color: rgb(238, 172, 238);">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: chartreuse;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+        </tr>
+
+        <tr style="color: black; text-align: center; ">
+            <th width="50" style="background-color: rgb(231, 229, 229);">5</th>
+            <th width="105" height="50" style="background-color: rgb(238, 172, 238);">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: chartreuse;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+        </tr>
+
+        <tr style="color: black; text-align: center; ">
+            <th width="50" style="background-color: rgb(231, 229, 229);">6</th>
+            <th width="105" height="50" style="background-color: rgb(238, 172, 238);">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: chartreuse;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: lightblue;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+        </tr>
+
+        <tr style="color: black; text-align: center; ">
+            <th width="50" style="background-color: rgb(231, 229, 229);">7</th>
+            <th width="105" height="50" style="background-color: rgb(238, 172, 238);">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: chartreuse;">CCPRGG1L</th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229)"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+            <th width="105" height="50" style="background-color: rgb(231, 229, 229);"></th>
+        </tr>
+
+
+    </table>
+</body>
+</html>
