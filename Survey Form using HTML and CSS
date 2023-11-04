@@ -30,14 +30,19 @@ form {
     margin-bottom: 10px;
 }
 .form-control input
-.form-control select
-.form-control textarea {
+.form-control select {
     border: 1px solid chartreuse;
     border-radius: 2px;
     font-family: inherit;
     padding: 10px;
     display: block;
     width: 95%;
+}
+.form-control textarea {
+    width: 100%;
+    border: 2px solid;
+    border-radius: 10px;
+    height: 60px;
 }
 .form-control input [type="checkbox"] {
     display: inline-block;
