@@ -20,6 +20,7 @@ form {
     margin: 50px auto;
     padding: 30px 20px;
     box-shadow: 2px 5px 10px rgb(123, 114, 114);
+    border-radius: 20px;
 }
 .form-control {
     text-align: left;
